@@ -1,2 +1,2 @@
 # C-_codes
-Simple codes sharing.
+Simple C++ codes sharing.
