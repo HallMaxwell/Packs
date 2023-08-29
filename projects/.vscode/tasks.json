@@ -6,18 +6,18 @@
         {
         "type": "shell",
         "label": "task g++",
-        "command": "C:\\Program Files\\mingw64\\bin\\g++.exe",	/*Modify to your own bin directory g++.exe, where the path and the computer copy the file directory is a little different. Here are two backslashes\\*/
+        "command": "C:\\Program Files\\mingw64\\bin\\g++.exe", /*Modify to your own bin directory g++.exe, where the path and the computer copy the file directory is a little different. Here are two backslashes\\*/
         "args": [
             "-g",
             "${file}",
             "-o",
             "${fileDirname}\\${fileBasenameNoExtension}.exe",
             "-I",
-            "C:\\Users\\admin\\C-EasyStylcodes\\VSCodeproject",      /*Modify to put your own c/ C ++ project folder, where the path and the computer copy the file directory is a little different. Here are two backslashes\\*/
+            "C:\\Users\\admin\\C-EasyStylcodes\\VSCodeproject", /*Modify to put your own c/ C ++ project folder, where the path and the computer copy the file directory is a little different. Here are two backslashes\\*/
             "-std=c++17"
         ],
         "options": {
-            "cwd": "C:\\Program Files\\mingw64\\bin"	/*Change it to your bin directory. The path here is a little different from the file directory copied in the computer. Here are two backslashes\\*/
+            "cwd": "C:\\Program Files\\mingw64\\bin" /*Change it to your bin directory. The path here is a little different from the file directory copied in the computer. Here are two backslashes\\*/
         },
         "problemMatcher":[
             "$gcc"

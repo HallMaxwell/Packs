@@ -15,7 +15,7 @@
             "environment": [],
             "externalConsole": true,
             "MIMode": "gdb",
-            "miDebuggerPath": "C:\\Program Files\\mingw64\\bin\\gdb.exe",		/*Change to your own bin directory gdb.exe, where the path and the computer copy file directory is a little different. Here are two backslashes\\*/
+            "miDebuggerPath": "C:\\Program Files\\mingw64\\bin\\gdb.exe", /*Change to your own bin directory gdb.exe, where the path and the computer copy file directory is a little different. Here are two backslashes\\*/
             "setupCommands": [
                 {
                     "description": "Enable pretty printing for gdb",
