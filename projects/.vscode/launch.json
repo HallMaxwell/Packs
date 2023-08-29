@@ -1,7 +1,7 @@
 {
-    // 使用 IntelliSense 了解相关属性。 
-    // 悬停以查看现有属性的描述。
-    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    // Learn about properties using IntelliSense. 
+    // Hover to see a description of an existing property.
+    // For more information, please visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
@@ -15,10 +15,10 @@
             "environment": [],
             "externalConsole": true,
             "MIMode": "gdb",
-            "miDebuggerPath": "C:\\Program Files\\mingw64\\bin\\gdb.exe",		/*修改成自己bin目录下的gdb.exe，这里的路径和电脑里复制的文件目录有一点不一样，这里是两个反斜杠\\*/
+            "miDebuggerPath": "C:\\Program Files\\mingw64\\bin\\gdb.exe",		/*Change to your own bin directory gdb.exe, where the path and the computer copy file directory is a little different. Here are two backslashes\\*/
             "setupCommands": [
                 {
-                    "description": "为 gdb 启用整齐打印",
+                    "description": "Enable pretty printing for gdb",
                     "text": "-enable-pretty-printing",
                     "ignoreFailures": true
                 }
