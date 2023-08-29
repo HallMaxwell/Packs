@@ -6,6 +6,6 @@ Simple snake game example. <br>
 ![run](https://github.com/HallMaxwell/C-_codes/blob/main/images/snake.png)
 ## [data_statistics.cpp](https://github.com/HallMaxwell/C-_codes/blob/main/projects/math/data_statistics.cpp)
 Simple data statistics to form a frequency distribution table. <br>
-#### (very friendly to junior high school students. I wrote this by hand. In order to understand the frequency distribution table in the textbook better.)
+#### (I wrote this by hand. In order to understand the frequency distribution table in the textbook better. So it's very friendly to junior high school students.)
 
 
