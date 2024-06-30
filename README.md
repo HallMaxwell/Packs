@@ -5,9 +5,10 @@ Simple C++ codes sharing.
 Simple snake game example. 
 ![run](https://github.com/HallMaxwell/Packs/blob/main/images/snake.png)
 #### *I'm not this code's author. 
-## [data_statistics.cpp](https://github.com/HallMaxwell/Packs/blob/main/projects/math/data_statistics.cpp)
+## [data_statistics.exe](https://github.com/HallMaxwell/Packs/releases/tag/v1.5)
 Simple data statistics to form a frequency distribution table. 
- ![run](https://github.com/HallMaxwell/Packs/blob/main/images/data_statistics.png)
+ ![text](https://github.com/HallMaxwell/Packs/blob/main/images/data_statistics2.png)
+![run](https://github.com/HallMaxwell/Packs/blob/main/images/data_statistics1.png)
 
 #### *I'm this code's author. It is designed for junior high school students learning data statistics.
 
