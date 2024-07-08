@@ -7,7 +7,7 @@
 ## [`snake.cpp`](https://github.com/HallMaxwell/Packs/blob/main/projects/games/snake/Snake.cpp)
 >简单的贪吃蛇小游戏示例。
 
-我非源代码的作者，此代码仅做分享。
+我非源代码的作者，此代码仅作分享。
 ![运行](https://github.com/HallMaxwell/Packs/blob/main/images/snake.png)
 
 ## [`data_statistics.exe`](https://github.com/HallMaxwell/Packs/releases/tag/v1.5)
