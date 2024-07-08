@@ -10,7 +10,7 @@
 我非源代码的作者，此代码仅作分享。
 ![运行](https://github.com/HallMaxwell/Packs/blob/main/images/snake.png)
 
-## [`data_statistics.exe`](https://github.com/HallMaxwell/Packs/releases/tag/v1.5)
+## [`data_statistics_release.exe`](https://github.com/HallMaxwell/Packs/releases/tag/v1.5)
 >#### 简单统计数据，形成频数分布表。
 
 我是该代码的作者，该代码专为学习数据统计的初中生设计。
