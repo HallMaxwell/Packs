@@ -6,7 +6,7 @@ I'm glad to meet you here. Welcome debugging & guiding.
 >#### `English` | [`简体中文`](https://github.com/HallMaxwell/Packs/blob/main/README-CN.md)
 
 
-## [`data_statistics_release.exe`](https://github.com/HallMaxwell/Packs/releases/tag/v1.5)
+## [`data_statistics_release.exe`](https://github.com/HallMaxwell/Packs/releases/tag/v1.6)
 >#### Simple data statistics to form a frequency distribution table. 
 
 It is designed for junior high school students learning data statistics.
