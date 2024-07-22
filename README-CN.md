@@ -15,7 +15,7 @@
 - 优化文件更小的大小(release版本)。
 - 这将导致占用内存，代码**暂时不**开源。
 - 它可能被计算机系统错误删除(在[**#1**](https://github.com/HallMaxwell/Packs/issues/1)查看详情)。
-
+![运行](https://github.com/HallMaxwell/Packs/blob/main/images/data_statistics1.png)
 ![文本](https://github.com/HallMaxwell/Packs/blob/main/images/data_statistics2.png)
 
-![运行](https://github.com/HallMaxwell/Packs/blob/main/images/data_statistics1.png)
+
