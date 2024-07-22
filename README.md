@@ -16,6 +16,7 @@ It is designed for junior high school students learning data statistics.
 - Optimized files for smaller size(release).
 - This will cause memory usage and is **NOT** open source **FOR THE MOMENT**.
 - It could be deleted by mistake by the computer system(See details at [**#1**](https://github.com/HallMaxwell/Packs/issues/1))
+  
 ![run](https://github.com/HallMaxwell/Packs/blob/main/images/data_statistics1.png)
 ![text](https://github.com/HallMaxwell/Packs/blob/main/images/data_statistics2.png)
 
