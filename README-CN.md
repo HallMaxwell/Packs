@@ -4,11 +4,6 @@
 很高兴遇见你，欢迎纠错和指导。
 >#### [`English`](https://github.com/HallMaxwell/Packs/blob/main/README.md) | `简体中文`
 
-## [`snake.cpp`](https://github.com/HallMaxwell/Packs/blob/main/projects/games/snake/Snake.cpp)
->简单的贪吃蛇小游戏示例。
-
-我非源代码的作者，此代码仅作分享。
-![运行](https://github.com/HallMaxwell/Packs/blob/main/images/snake.png)
 
 ## [`data_statistics_release.exe`](https://github.com/HallMaxwell/Packs/releases/tag/v1.5)
 >#### 简单统计数据，形成频数分布表。
