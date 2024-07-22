@@ -9,7 +9,7 @@ I'm glad to meet you here. Welcome debugging & guiding.
 ## [`data_statistics_release.exe`](https://github.com/HallMaxwell/Packs/releases/tag/v1.5)
 >#### Simple data statistics to form a frequency distribution table. 
 
-I'm this code's author. It is designed for junior high school students learning data statistics.
+It is designed for junior high school students learning data statistics.
 >##### About the latest release:
 - The code is updated to conform to the latest C standards.
 - Automatically generate text records to prevent loss of data (empty at next launch).
